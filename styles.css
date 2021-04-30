@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+    font-family:Arial, Helvetica, sans-serif
+}
+#startbtn{
+    position: relative;
+}
+
+.lovetext{
+    text-align: center;
+    color: gray;
+    font-size: 4rem;
+    font-family: Arial, Helvetica, sans-serif
+}
+.advice{
+    text-align: center;
+    color: black;
+    font-family:Arial, Helvetica, sans-serif
+}
